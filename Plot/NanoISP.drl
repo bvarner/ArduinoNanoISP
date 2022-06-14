@@ -1,13 +1,13 @@
 M48
-; DRILL file {KiCad 6.0.2+dfsg-1} date Mon 13 Jun 2022 11:01:15 PM EDT
+; DRILL file {KiCad 6.0.2+dfsg-1} date Tue 14 Jun 2022 01:59:52 PM EDT
 ; FORMAT={-:-/ absolute / metric / decimal}
-; #@! TF.CreationDate,2022-06-13T23:01:15-04:00
+; #@! TF.CreationDate,2022-06-14T13:59:52-04:00
 ; #@! TF.GenerationSoftware,Kicad,Pcbnew,6.0.2+dfsg-1
 ; #@! TF.FileFunction,MixedPlating,1,2
 FMAT,2
 METRIC
 ; #@! TA.AperFunction,Plated,PTH,ViaDrill
-T1C0.400
+T1C0.700
 ; #@! TA.AperFunction,Plated,PTH,ComponentDrill
 T2C0.800
 ; #@! TA.AperFunction,Plated,PTH,ComponentDrill
